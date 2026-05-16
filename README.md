@@ -52,6 +52,12 @@ Named-Entity-Recognition/
 ├── src/
 │   └── app.py
 │
+├── assets/
+│   └── NER.ipynb
+│
+├── docs/
+│   └── NER_IP_OP.docx
+│
 ├── requirements.txt
 ├── runtime.txt
 ├── README.md
